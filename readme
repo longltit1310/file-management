@@ -1,1 +1,3 @@
-New project about file management
+Vì nhóm em chưa làm được tự cập nhật kết nối với sql nên
+ khi sử dụng ta cần vào appconfig sửa lại kết nối cho phù hợp với mỗi máy, sau đó chạy file sql.sql,
+ Mong thầy thông cảm!
